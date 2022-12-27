@@ -6,5 +6,6 @@ slug: book
 category: life
 sidebar: true
 description: >
-  What did I read books.
+  테스트 태그.
+published: false
 ---
