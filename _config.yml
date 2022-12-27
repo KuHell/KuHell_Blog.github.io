@@ -205,7 +205,6 @@ comments:
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
 
-
 giscus:
   repo: 'KuHell/KuHell.github.io'
   repo-id: 'R_kgDOIrfbcg'
@@ -214,11 +213,24 @@ giscus:
   mapping: 'pathname'
   reaction-enabled: '1'
   data-emit-metadata: '0'
-  position: 'bottom'
-  theme: 'preferred_color_scheme'
+  position: 'top'
+  theme: 'light'
   data-lang: 'ko'
   crossorigin: 'anonymous'
 
+
+# giscus:
+#   repo: 'owni14/owni14.github.io'
+#   repo-id: 'R_kgDOHrsZzw'
+#   category: 'General'
+#   category-id: 'DIC_kwDOHrsZz84CQUpp'
+#   mapping: 'pathname'
+#   reaction-enabled: '1'
+#   data-emit-metadata: '0'
+#   position: 'top'
+#   theme: 'light'
+#   data-lang: 'ko'
+#   crossorigin: 'anonymous'
 
 # <script src="https://giscus.app/client.js"
 #         data-repo="KuHell/KuHell.github.io"
