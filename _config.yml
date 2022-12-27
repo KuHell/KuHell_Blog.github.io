@@ -63,7 +63,7 @@ author:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright: © 2022. by [Min](https://KuHell.github.io/)
+copyright: © 2022. by [KuHell](https://KuHell.github.io)
 
 # Format of the permalinks
 # permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -140,13 +140,7 @@ defaults:
 
   # Don't include site verification file(for google) in the sitemap
   - scope:
-      path: google0f32544eb2c9caa8.html
-    values:
-      sitemap: false
-
-  # Don't include site verification file(for naver) in the sitemap
-  - scope:
-      path: naver57f228c86e34cc7c12d5bb9026d56c0c.html
+      path: googledb72f3ac97f88e25.html
     values:
       sitemap: false
 
