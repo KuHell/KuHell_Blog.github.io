@@ -219,6 +219,26 @@ giscus:
   data-lang: 'ko'
   crossorigin: 'anonymous'
 
+
+# <script src="https://giscus.app/client.js"
+#         data-repo="KuHell/KuHell.github.io"
+#         data-repo-id="R_kgDOIrfbcg"
+#         data-category="Q&A"
+#         data-category-id="DIC_kwDOIrfbcs4CTRhP"
+#         data-mapping="pathname"
+#         data-strict="0"
+#         data-reactions-enabled="1"
+#         data-emit-metadata="0"
+#         data-input-position="bottom"
+#         data-theme="preferred_color_scheme"
+#         data-lang="ko"
+#         crossorigin="anonymous"
+#         async>
+# </script>
+
+
+
+
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
 # tinyletter:            <username>
