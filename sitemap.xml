@@ -1,3 +1,4 @@
+
 ---
 layout: null
 ---
@@ -21,6 +22,8 @@ layout: null
       {% else %}
         <priority>{{ post.sitemap.priority }}</priority>
       {% endif %}
+
     </url>
   {% endfor %}
 </urlset>
+
