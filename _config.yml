@@ -19,7 +19,7 @@
 lang: ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: Min's Developer Blog
+title: KuHell Blog
 
 timezone: Asia/Seoul
 # A short description (~150 chars) of the page used for the meta description tag.
@@ -32,7 +32,7 @@ tagline: >
   반갑습니다.
 
 # A list of keywords for your blog
-keywords: ['Development', 'JavaScript', 'Jekyll']
+keywords: ['Development', 'FrontEnd', 'BlockChain']
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -47,8 +47,8 @@ author:
   picture: /assets/img/me.jpeg
   social:
     instagram:
-    github: https://github.com/owni14
-    email: kmwoo514@gmail.com
+    github: https://github.com/KuHell
+    email: itkdgus489@gmail.com
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -63,7 +63,7 @@ author:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright: © 2022. by [Min](https://owni14.github.io/)
+copyright: © 2022. by [Min](https://KuHell.github.io/)
 
 # Format of the permalinks
 # permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -211,7 +211,7 @@ comments:
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
 giscus:
-  repo: 'owni14/owni14.github.io'
+  repo: 'KuHell/KuHell.github.io'
   repo-id: 'R_kgDOHrsZzw'
   category: 'General'
   category-id: 'DIC_kwDOHrsZz84CQUpp'
@@ -388,7 +388,8 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-google_site_verification: '6CKzmA9wscpeDNGzaw4JzP-rJxN6bJwrB0Ya-V7O-Hw'
+google_site_verification: '_D7Qm6WZknztpzGBtyj5ZGakeiIzfln2kIsuD8SionQ'
+
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
